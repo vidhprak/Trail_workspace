@@ -1,0 +1,6 @@
+We also wanted to keep our history and didnt found anything. So we started to create a python script, which automates the process to migrate RTC SCM Stream by Stream to GIT.
+
+The script(s) can be found here: https://github.com/WtfJoke/rtc2git
+
+It doesnt work with git fast import, though. But its a possible way to migrate your components. You can read how it works on the stackoverflow-post or in the project description.
+The script is not finished yet, but in a good state. With that I was able to migrate some components sucesfully already (the rtc commands take some time for completion, therefore it takes quite a lot of time to migrate stuff). 

@@ -1,0 +1,3 @@
+There's a git fast-import command.  If you can find a way to make RTC
+output data in that format, either by using a pre-existing script or
+writing one yourself, git will happily import it. 
